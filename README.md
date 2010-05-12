@@ -6,6 +6,13 @@ ruby-audioinfo
  * http://ruby-audioinfo.rubyforge.org
  * http://rubyforge.org/projects/ruby-audioinfo/
 
+PURPOSE OF THIS FORK
+--------------------
+
+ * Add Ruby 1.9 support
+ * Remove the `system()` calls :-)
+ * Do some refactoring of the code
+
 DESCRIPTION
 -----------
 
